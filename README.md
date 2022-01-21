@@ -18,3 +18,6 @@
 主要就是裁去X轴两边一点点让160mm导轨可以装上
 
 暂时就这样了~
+
+
+![8WNZN3NKT(526A{TFP6J{B5](https://user-images.githubusercontent.com/54572370/150527075-7863ba78-ee76-4988-8067-480749f641e8.jpg)
