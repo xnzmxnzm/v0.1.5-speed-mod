@@ -1,6 +1,11 @@
 # v0.1.5-speed-mod
 主要发布自己画的V0.1高速化改件
 
+这个项目的设计基本上就是对着油管上的247printing视频抄
+一直有人问我就直接发布算了
+这个是247printing的主页
+https://www.youtube.com/channel/UCZc7vLpU2xw-2_a92k2cQtg
+
 
 喷头是用的E3D火山头~基本所有零件都按照这个高度去设计
 
